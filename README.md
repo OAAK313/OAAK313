@@ -5,4 +5,3 @@
 - 💪 I can code HTML, EJS, CSS, JS, Java, C++, C, C#, Python, SQL.
 - 📫 How to reach me: oaak0313@gmail.com
 - ⚡ Fun fact: Graffiti Afficionado
-- 😄 Pronouns: He/Him

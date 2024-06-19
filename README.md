@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OAAK313!
+- 👋 Hi, I’m OAAK313!
 - ⚡ Fun fact: Graffiti Fanatic
 - 💪 I can code HTML, EJS, CSS, JS, Java, C++, C, C#, Python, SQL.
 - 👀 I’m interested in Full Stack Cross Platform Application Development.
